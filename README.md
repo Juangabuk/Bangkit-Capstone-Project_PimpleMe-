@@ -12,3 +12,10 @@ PimpleMe! is an application to detect to know how severe the acne is on the face
 
 ### Project Name: PimpleMe! : Identify Pimples with Your SmartPhone
 ### Project Themes: Human Healthcare & Animal Welfare
+### Project Mentors:
+* Antonius Yanuar Putra - Software Engineer at Traveloka
+* Farhan Yuda Pahlevi - Android Engineer at Gojek
+
+### Datasets
+* https://www.kaggle.com/datasets/rutviklathiyateksun/acne-grading-classificationdataset
+* https://www.kaggle.com/datasets/akshitmadan/various-skin-diseases-dataset
